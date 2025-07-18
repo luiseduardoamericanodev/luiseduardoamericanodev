@@ -34,7 +34,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=luiseduardoamericanodev&color=black&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=luiseduardoamericanodev&color=purple&style=flat">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
